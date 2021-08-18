@@ -1,6 +1,6 @@
 package person
 
-type person struct{
-  name string
-  surname string
+type Person struct{
+  Name string
+  Surname string
 }
